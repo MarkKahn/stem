@@ -1,0 +1,9 @@
+{
+  "name": "stem",
+  "version": "1.0.0",
+  "description": "javascript porter2 stemmer for english, french, and german",
+  "main": "index.js",
+  "repository": "https://github.com/MarkKahn/stem.git",
+  "author": "Mark Kahn <m@vouchr.com>",
+  "license": "MIT"
+}
